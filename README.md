@@ -21,7 +21,7 @@ Global information is detailed in app repository: [Grow it](https://github.com/c
 | update | put /user/:_id | updates a user | 
 | delete | delete /user/:_id | deletes a user | 
 | retrieve | get /user/:_id | retrieves a user | 
-| searchUser | /userq/:query | search users matching query | 
+| searchUser | get /userq/:query | search users matching query | 
 | listOrchard | get /orchards | list all orchards | 
 | createOrchard | post /orchard | creates an orchard | 
 | updateOrchard | put /orchard/:_id | updates an orchard | 
